@@ -1,0 +1,4 @@
+export const ADD_TODO = "ADD_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
+export const STRIKE_TODO = "STRIKE_TODO";
+export const EDIT_TODO = "EDIT_TODO";
